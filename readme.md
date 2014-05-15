@@ -1,5 +1,5 @@
 Contentify
-==========
+===========
 
 **Contentify** is a Collaborative content manager in realtime over Github and Github Pages.
 
